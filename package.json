@@ -6,9 +6,7 @@
   "homepage": "https://nelli-belovol.github.io/goit-js-hw-09-gallery-parcel",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery-parcel/",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery-parcel/"
   },
   "repository": {
     "type": "git",
